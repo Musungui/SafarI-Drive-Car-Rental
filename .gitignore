@@ -361,3 +361,18 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+{
+  "type": "service_account",
+  "project_id": "safari-drives",
+  "private_key_id": "aa9702dbce31a22d297f2fa45dcf65c77a789a1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuVBnoSzZSQCTf\nsytND6NfcP3U6LgulNAhVKAC3TPLPGBatlmVbL8A01AruLLO48LALeFyem4Vpt0Z\ngmfwLTAdMawhdeAu4PAJWXxPhBajhjxAAbZcT53yb/I9V2AENrjiZdxDJCWAabiy\nCwdV1X1ILA5SDh6taID8eLbawCjvWGxiT498y7PS3KO9aiEpJq459VgUJEpHd5+a\nVFNFMU45Yd1XP4nrL2bRkYTEZvbLF+nqUF6tmhGq7Wan1DDLCZPWoEadYHpaHDPZ\nSZsgilueGA0FcA5thjlnlzatu4R4LM332AndbaoDwOPq/1DeDzOPOaZbyWIxIfBN\nm3lrGCgpAgMBAAECggEAD24Uu/WaSYXxbZZtfPznHD3DTdrKYJ8d2/FiV1aObMz7\nh1PwEnSFZHSPukr3Eq5gsMNu2sPg5gw2sjkTa5QIV/ErV+vXy7ZvsJgp01zw5wjs\n4Mp2Am4uoASOF6VZ842HaEyVRiEXK6pP5Xxp6gxDMkXp/5PN3dHr5szlfG+5P9P5\nlfjdUIv04H3PVghXhvkxcUwi0YXS2cGNUyE3Dm3sPwFEMRegl3xIrBMSqmjlZrVH\n4vKc/naToyzM9x4lnFJpokZZarzH2hczkWoQEFdd8yR0MXsLYJHWPUefHi0aV33u\na+HPnhUguE8i4WrwXz+Oy+5OUjLYv3kLulriK0ZZ/QKBgQDdRZL3X1GPnR/ULNm3\nFe1rDEU7WQWQicYDzP7EYC9b7qJEuwcMOENOToNVMAE6F3HkxDj1EU3QxzNvTtob\nKAJRRjVUmNnZqABzX5hnynd7auAWKW0IP2jd36XhQP9iOjCRpwTcgBbhq4Q5iExY\nUjF7d08jmknn1OhanhFfs5W0lQKBgQDJsGfCaKT2z6mZTNA0cMY2omGQExSPBHmi\nZE8NLv8GprKGOXBMkyQ5mGTAbCKTgsDFZpc410+A+C84JfdTw+2LPduvCDw9KUNX\nraQdxVWJI0e0ZjC6tYC9nutvfmZtnaQQMRVlytef0rL/bQuIDlttgq2spe4TX+h1\n+FSk7MmMRQKBgG66jl00WgBgRLlM6HZyhqj3Lv4QAnTePTVRtHxZFdoPhSyX22MG\nFMhvCdHrf/GuIdS1TTt2OVatGNQuxX6pet9pHu8CvqHpLLCPuhjWfQxJ43GzsVhb\nQwMlFEGw4Rwqunto9UnS36B20GhqCKp6F0EN55CNeUaGiPAwAcm+eMAxAoGANIX/\nD27G/wtnZGfPlMiFpfa1p5qAcRo+Pt8Wgx1pBqdkuHW+3AI5ndIk8sN2YancX8vu\nt7vClZiMW3fvp93PP8K1MijX3ymewveSVLpuIw+P/dfa+tSHmVoIf/mP3R3/esP9\niYvAiXuKZ+BS73SltKgiaGKx1FPWqton2OddOW0CgYAPpUwpDWEKuCJsi9QT/Zu9\nuMIs4nVjxdQsolTJ+v/PaJdVSrhCrVbRXFrNU7nIUNLPHu89RCLaSBDanntbLyjX\n+Lbde4dC+VTD5CzzOKoN8OoAHAKI97bVxCnZKAHzjIYrdCaNfmwo5oVMP5yefyuD\natyt9s5NhHJ2ivItF3NF8A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-q8tjl@safari-drives.iam.gserviceaccount.com",
+  "client_id": "106507563343082452820",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-q8tjl%40safari-drives.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
